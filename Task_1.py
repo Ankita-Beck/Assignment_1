@@ -10,7 +10,7 @@ print("The addition of {} and {} is {}".format(a,b,add))
 sub = (b-a)
 print("The subraction of {} and {} is {}".format(b,a,sub))
 
-# Multiplication
+# Multiplicationgit
 mul = (a*b)
 print("The multiplication of {} and {} is {}".format(a,b,mul) )
 
